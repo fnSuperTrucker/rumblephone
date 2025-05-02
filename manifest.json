@@ -1,0 +1,8 @@
+{
+    "name": "Rumble Launcher",
+    "short_name": "Rumble",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#1d2129",
+    "theme_color": "#f57c00"
+}
